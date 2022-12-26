@@ -448,6 +448,9 @@ items:
         __link: https://stealthex.io/
         __name: StealthEx
       SwapSpace:
+        __name: Swapika
+        __link: https://swapika.com/
+      SwapSpace:
         __name: SwapSpace
         __link: https://swapspace.co/?from=etc&to=btc&amount=1
       SwapSwop:
